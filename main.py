@@ -3,6 +3,7 @@ import time
 import numpy as np
 import h5py
 import matplotlib.pyplot as plt
+%matplotlib inline
 import scipy
 from PIL import Image
 from scipy import ndimage
